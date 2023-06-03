@@ -1,4 +1,4 @@
 # Meu Projeto Final - Curso Infnet
-Este é meu projeto para conclusão da pós graduação em Ciência de Dados e foi realizado diretamente no Visual Studio Code.
+This is my post graduation project in Data Science and it was done directly in Visual Studio Code.
 
-Se destina a criar uma regressão para previsão da expectativa de vida de acordo diversos fatores de saúde e           sócio-econômicos.
+It is intended to create a regression to predict life expectancy according to various health and socio-economic factors.
